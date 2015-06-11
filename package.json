@@ -1,0 +1,35 @@
+{
+  "name": "node-raise",
+  "version": "0.1.0",
+  "description": "A small utility to throw meaningful error with ease",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec test"
+  },
+  "keywords": [
+    "node",
+    "error",
+    "printf",
+    "format"
+  ],
+  "author": "Adriano Di Giovanni <me@adrianodigiovanni.com> (http://adrianodigiovanni.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "dependencies": {
+    "chai": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spaghetti-interactive/node-raise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spaghetti-interactive/node-raise/issues"
+  },
+  "homepage": "https://github.com/spaghetti-interactive/node-raise"
+}

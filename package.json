@@ -1,6 +1,6 @@
 {
   "name": "node-raise",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A small utility to throw meaningful error with ease",
   "main": "index.js",
   "directories": {
@@ -21,12 +21,9 @@
     "chai": "*",
     "mocha": "*"
   },
-  "dependencies": {
-    "chai": "^3.0.0"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/spaghetti-interactive/node-raise.git"
+    "url": "git+https://github.com/spaghetti-interactive/node-raise.git"
   },
   "bugs": {
     "url": "https://github.com/spaghetti-interactive/node-raise/issues"
